@@ -138,17 +138,17 @@
 				</setting>
 				<setting id="exclude_extras" type="boolean" label="32906" help="">
 					<level>0</level>
-					<default>false</default>
+					<default>true</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="continuous_play" type="boolean" label="32907" help="">
 					<level>0</level>
-					<default>false</default>
+					<default>true</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="fallback_watchedstatus" type="boolean" label="32908" help="">
 					<level>0</level>
-					<default>false</default>
+					<default>true</default>
 					<control type="toggle"/>
 				</setting>
 			</group>
